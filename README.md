@@ -1,7 +1,5 @@
 ⚠️ Status: This project is currently under development. I am adding more features and optimizing the UI.
 
-====================================================================================================
-==================================================================================================
 
 # 📊 React Admin Dashboard
 
